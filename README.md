@@ -107,3 +107,10 @@ sudo reboot
 ```
 
 If you want to setup masquerading or bridging, check out [the official Raspberry Pi docs](https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md).
+
+
+# Installation of RTL8812BU driver on Ubuntu 18.04
+
+```bash
+  chmod 755 install.sh
+  ./install.sh
